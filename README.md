@@ -1,6 +1,6 @@
 # api-modelo-flask
 
-Projeto modelo para apis restful.
+Projeto modelo para apis restful (scaffold inicial).
 <br/>
 <br/>
 <b>Tecnologias:</b>
