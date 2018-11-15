@@ -5,8 +5,8 @@ Projeto modelo para apis restful (scaffold inicial).
 <br/>
 <b>Tecnologias:</b>
 
-Python 3.7
+Python 3.7  
 Flask  
 SqlAlchemy  
-PostgreSQL
+PostgreSQL  
 Pytest  
